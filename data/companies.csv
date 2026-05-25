@@ -1,0 +1,6 @@
+company_id,company_name,industry,city,employees,contract_start,ai_agent_id,monthly_ticket_volume
+C001,NovaTelecom,Telecommunications,Moscow,12000,2024-01-15,AGT-PRO-2,1800
+C002,AlphaBank,Banking & Finance,Saint Petersburg,8500,2024-02-01,AGT-PRO-3,1400
+C003,SwiftDeliver,Logistics & Delivery,Novosibirsk,3200,2024-03-10,AGT-LITE-1,900
+C004,RetailPlus,E-commerce & Retail,Yekaterinburg,5600,2024-01-20,AGT-PRO-2,1100
+C005,SecureShield,Insurance,Kazan,2100,2024-04-01,AGT-LITE-2,500
