@@ -1,0 +1,5 @@
+agent_id,agent_name,model_version,tier,base_resolution_rate,base_escalation_rate,avg_response_sec,supported_channels,languages,release_date
+AGT-LITE-1,TargetAI Lite v1.0,1.0,Lite,0.71,0.29,18,"chat,email",ru,2023-09-01
+AGT-LITE-2,TargetAI Lite v2.0,2.0,Lite,0.76,0.24,14,"chat,email","ru,en",2024-01-15
+AGT-PRO-2,TargetAI Pro v2.0,2.0,Pro,0.83,0.17,9,"chat,email,phone","ru,en",2023-11-01
+AGT-PRO-3,TargetAI Pro v3.0,3.0,Pro,0.89,0.11,6,"chat,email,phone,voice_bot","ru,en,de,fr",2024-02-20
