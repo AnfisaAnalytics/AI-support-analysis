@@ -1,5 +1,9 @@
 # AI Customer Support Performance Analysis
-📓 View the full analysis notebook → [https://github.com/AnfisaAnalytics/AI-support-analysis/blob/2de977ddf4f4d06cebccd22040f65298252d801c/ai_support_analysis.ipynb]
+
+
+📓 View the full analysis notebook → (ai_support_analysis)[https://github.com/AnfisaAnalytics/AI-support-analysis/blob/2de977ddf4f4d06cebccd22040f65298252d801c/ai_support_analysis.ipynb]
+
+
 > **Confidentiality Notice**
 > This project is based on real analytical work completed at a previous employer.
 > The company name has been anonymised as **"Company X"** in accordance with confidentiality obligations.
